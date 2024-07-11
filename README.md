@@ -3,9 +3,11 @@
 
 This is a neutral repo where you can open a trivial PR and initiate the EasyCLA signing process. All PRs will be closed periodically.
 
+NOTE: For Sub Project repositories the EasyCLA check will be activated sonn - please use the opportunity to sign your CLA in advance by following the below instructions.
+
 ## CAMARA Community Licencse Agreement and EasyCLA
 
-The ProjectCharter of CAMARA requires that every Contributor to CAMARA and its Sub Project has to sign a Community License Agreement. You only need to do this one time. For this purpose the repositories of CAMARA are managemed by [EasyCLA](https://docs.linuxfoundation.org/lfx/easycla/v2-current/getting-started) including this one.
+The ProjectCharter of CAMARA requires that every Contributor to CAMARA and its Sub Project has to sign a Community License Agreement. You only need to do this one time. For this purpose the repositories of CAMARA are managed by [EasyCLA](https://docs.linuxfoundation.org/lfx/easycla/v2-current/getting-started) including this one.
 
 A Contributor is someone who contributes either on behalf of a company, or individually on their own behalf.
 * If contributing on behalf of their company: the contributor will sign a Corporate Contributor License (CCLA).
@@ -41,6 +43,8 @@ In order to trigger the signing process you need to fork this repo and submit a 
 * Open the following URL: https://github.com/camaraproject/EasyCLA/blob/main/README.md
 * Click on the pencil icon, this will fork the repo into your own GitHub account and allow you to make a change to be submitted back.
 
+![initiate_signing_process_step_1](images/initiate_signing_process_step_1.png)
+
 ### Step 2 - Make a trivial change and Commit
 
 Once you enter the edit screen just make a nothing change to the file, e.g. adding a few empty lines to the end of the file. It is important to note any information you type here will be public so avoid adding any information.
@@ -48,6 +52,8 @@ Once you enter the edit screen just make a nothing change to the file, e.g. addi
 * Add empty lines to the file, e.g. at the beginning
 * Click on "Commit changes ..."
 * Click on "Sign off and propose changes" in the next dialog
+
+![initiate_signing_process_step_2](images/initiate_signing_process_step_2.png)
 
 ### Step 3 - Create Pull Request (PR)
 
@@ -57,6 +63,9 @@ Now you have a staged commit in your forked repo you can submit a pull request (
 * Update the name of your pull request to "Initiate CLA - " - Replace Your name with your actual name ;)
 * Click on "Create Pull Request"
 
+![initiate_signing_process_step_3a](images/initiate_signing_process_step_3a.png)
+![initiate_signing_process_step_3b](images/initiate_signing_process_step_3b.png)
+
 ### Step 4 - Find your PR and trigger signing
 
 Now you have opened a PR it will cause the EasyCLA to check on your signing status and enable you to start the signing process.
@@ -64,6 +73,8 @@ Now you have opened a PR it will cause the EasyCLA to check on your signing stat
 * Open pull [requests for this repo](https://github.com/hdamker/EasyCLA/pulls)
 * Find your open pull request in the list and select it
 * Check on the status of the EasyCLA add-on, if you are not covered you will need to start the signing process by selecting "click here to be authorized"
+
+![initiate_signing_process_step_4](images/initiate_signing_process_step_4.png)
 
 ### Step 5 - Complete the CLA Signing Process
 
@@ -81,6 +92,8 @@ Once you have completed the process of signing the CLA and have been added to yo
 * Find your open pull request in the list and select it
 * Check on the status of the EasyCLA add-on, if you are not covered you will need to start the signing process by selecting "click here to be authorized"
 * After completing this process you should see you pull request has been authorized
+
+![initiate_signing_process_step_6](images/initiate_signing_process_step_6.png)
 
 
 
