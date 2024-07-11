@@ -3,7 +3,7 @@
 
 This is a neutral repo where you can open a trivial PR and initiate the EasyCLA signing process. All PRs will be closed periodically.
 
-NOTE: For Sub Project repositories the EasyCLA check will be activated sonn - please use the opportunity to sign your CLA in advance by following the below instructions.
+NOTE: For Sub Project repositories the EasyCLA check will be activated soon - please use the opportunity to sign your CLA in advance by following the below instructions.
 
 ## CAMARA Community Licencse Agreement and EasyCLA
 
