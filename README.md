@@ -5,9 +5,9 @@ This is a neutral repo where you can open a trivial PR and initiate the EasyCLA 
 
 NOTE: For Sub Project repositories the EasyCLA check will be activated soon - please use the opportunity to sign your CLA in advance by following the below instructions.
 
-## CAMARA Community Licencse Agreement and EasyCLA
+## CAMARA Community License Agreement and EasyCLA
 
-The [ProjectCharter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md) of CAMARA requires that every Contributor to CAMARA and its Sub Project has to sign a Community License Agreement. You only need to do this one time. For this purpose the repositories of CAMARA are managed by [EasyCLA](https://docs.linuxfoundation.org/lfx/easycla/v2-current/getting-started) including this one.
+The [ProjectCharter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md) of CAMARA requires that every Contributor to CAMARA and its Sub Projects has to sign a Community License Agreement. You only need to do this one time. For this purpose the repositories of CAMARA are managed by [EasyCLA](https://docs.linuxfoundation.org/lfx/easycla/v2-current/getting-started) including this one.
 
 A Contributor is someone who contributes either on behalf of a company, or individually on their own behalf.
 * If contributing on behalf of their company: the contributor will sign a Corporate Contributor License (CCLA).
