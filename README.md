@@ -10,7 +10,7 @@ NOTE: For Sub Project repositories the EasyCLA check will be activated soon - pl
 The [ProjectCharter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md) of CAMARA requires that every Contributor to CAMARA and its Sub Projects has to sign a Community License Agreement. You only need to do this one time. For this purpose the repositories of CAMARA are managed by [EasyCLA](https://docs.linuxfoundation.org/lfx/easycla/v2-current/getting-started) including this one.
 
 A Contributor is someone who contributes either on behalf of a company, or individually on their own behalf.
-* If contributing on behalf of their company: The contributor's company will sign or have already signed a Corporate Contributor License (CCLA). The contributor has to get an authorization from their company's CLA manager to contribute on behalf of the company
+* If contributing on behalf of their company: The contributor will identify the company on whose behalf they are contributing, so that they can either be authorized under a signed CCLA or else start the CCLA signing process.
 * If contributing on their own behalf: the Contributor will ​sign an Individual Contributor License Agreement (ICLA).
 
 **Important**: You should not submit a contribution under an ICLA if that contribution is done on behalf of your company. Instead, you should contribute under a Corporate CLA signed by your company. If you are uncertain whether you should be contributing under a CCLA or an ICLA, you should consult your employer's legal department to discuss.
