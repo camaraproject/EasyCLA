@@ -94,7 +94,3 @@ Once you have completed the process of signing the CLA and have been added to yo
 * After completing this process you should see you pull request has been authorized
 
 ![initiate_signing_process_step_6](images/initiate_signing_process_step_6.png)
-
-
-
-
