@@ -1,4 +1,4 @@
-# Shafi Test
+Shafi Test
 
 # EasyCLA - Contributor onboarding
 
