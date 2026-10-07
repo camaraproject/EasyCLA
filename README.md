@@ -91,7 +91,7 @@ Once you have completed the process of signing the CLA and have been added to yo
 * Open pull [requests for this repo](https://github.com/hdamker/EasyCLA/pulls)
 * Find your open pull request in the list and select it
 * Check on the status of the EasyCLA add-on, if you are not covered you will need to start the signing process by selecting "click here to be authorized"
-* After completing this process you should see you pull request has been authorized
+* After completing this process you should see you pull request has been authorized.
 
 ![initiate_signing_process_step_6](images/initiate_signing_process_step_6.png)
 
